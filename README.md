@@ -234,3 +234,6 @@ This repository serves as the official landing page for Brutal Chess. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Brutal Chess today!**
+
+---
+**Last updated:** 2026-09-08 04:19:44 UTC
