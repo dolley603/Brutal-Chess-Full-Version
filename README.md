@@ -236,4 +236,4 @@ This repository serves as the official landing page for Brutal Chess. The softwa
 **Get the most recent version of Brutal Chess today!**
 
 ---
-**Last updated:** 2026-10-24 23:04:00 UTC
+**Last updated:** 2026-10-25 04:24:43 UTC
